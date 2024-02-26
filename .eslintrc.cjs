@@ -34,6 +34,7 @@ const config = {
         checksVoidReturn: { attributes: false },
       },
     ],
+    "no-console": ["error"],
   },
 };
 
